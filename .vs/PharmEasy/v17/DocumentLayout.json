@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Shreyash MCA - I\\PharmEasy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|e:\\shreyash mca - i\\pharmeasy\\pharmeasy\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|solutionrelative:pharmeasy\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|E:\\Shreyash MCA - I\\PharmEasy\\pharmeasy\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|solutionrelative:pharmeasy\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|e:\\shreyash mca - i\\pharmeasy\\pharmeasy\\admin\\adminmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|solutionrelative:pharmeasy\\admin\\adminmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|E:\\Shreyash MCA - I\\PharmEasy\\pharmeasy\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|solutionrelative:pharmeasy\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|E:\\Shreyash MCA - I\\PharmEasy\\pharmeasy\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|solutionrelative:pharmeasy\\admin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|E:\\Shreyash MCA - I\\PharmEasy\\pharmeasy\\admin\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|solutionrelative:pharmeasy\\admin\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|E:\\Shreyash MCA - I\\PharmEasy\\pharmeasy\\admin\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C796A990-8BCE-429D-B6A0-D0EBD99760A4}|D:\\Shreyash MCA - I\\PharmEasy\\PharmEasy|solutionrelative:pharmeasy\\admin\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "PharmEasy\\Admin\\Dashboard.aspx",
+              "ToolTip": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "PharmEasy\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T06:57:09.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "PharmEasy\\Admin\\Dashboard.aspx.cs",
+              "ToolTip": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "PharmEasy\\Admin\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAgwMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:25:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Logout.aspx",
+              "RelativeDocumentMoniker": "PharmEasy\\Admin\\Logout.aspx",
+              "ToolTip": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Logout.aspx",
+              "RelativeToolTip": "PharmEasy\\Admin\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-11T19:48:49.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "PharmEasy\\Admin\\Logout.aspx.cs",
+              "ToolTip": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Logout.aspx.cs",
+              "RelativeToolTip": "PharmEasy\\Admin\\Logout.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:48:49.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\css\\style.css",
+              "RelativeDocumentMoniker": "PharmEasy\\Admin\\css\\style.css",
+              "ToolTip": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\css\\style.css",
+              "RelativeToolTip": "PharmEasy\\Admin\\css\\style.css",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAI8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T19:43:40.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "PharmEasy\\Admin\\Dashboard.aspx",
+              "ToolTip": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "PharmEasy\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-11T18:57:04.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMasterPage.master",
+              "DocumentMoniker": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\AdminMasterPage.master",
+              "RelativeDocumentMoniker": "PharmEasy\\Admin\\AdminMasterPage.master",
+              "ToolTip": "E:\\Shreyash MCA - I\\PharmEasy\\PharmEasy\\Admin\\AdminMasterPage.master",
+              "RelativeToolTip": "PharmEasy\\Admin\\AdminMasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-11T18:22:44.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
